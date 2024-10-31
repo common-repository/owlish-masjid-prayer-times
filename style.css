@@ -1,0 +1,24 @@
+/**
+ * Owlish_Masjidtimes
+ * CSS-file
+ */
+
+.owmp_widget_plugin_box {
+  width:100%;
+  overflow:hidden;
+}
+.owmp_label {
+  clear: both;
+  float: left;
+  width: 70%;
+  padding:0 0 3px 0;
+}
+.owmp_value {
+  float: left;
+  width: 30%;
+  padding:0 0 3px 0;   
+}
+.owmp_clearer {
+  clear:both;
+  margin-bottom:10px;
+}
